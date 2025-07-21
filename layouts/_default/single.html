@@ -10,8 +10,12 @@
   {{ partial "main_menu.html" . }}
 
   <main style="max-width: 700px; margin: auto; padding: 2rem;">
-    <div>{{ .Content }}</div>
-  </main>
+  {{ if .Title }}
+    <h1>{{ .Title }}</h1>
+  {{ end }}
+  <div>{{ .Content }}</div>
+</main>
+
 
 </body>
 </html>
