@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Eden Anin Adjei – PhD Research</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
     <atom:link href="https://edenaninadjei.github.io/phd-website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://edenaninadjei.github.io/phd-website/categories/about/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>https://edenaninadjei.github.io/phd-website/categories/about/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Projects</title>
       <link>https://edenaninadjei.github.io/phd-website/categories/projects/</link>
