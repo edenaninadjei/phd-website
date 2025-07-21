@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Panjim Goa</title>
-    <link>https://shenoydotme.github.io/tags/</link>
-    <description>Recent content in Tags on Panjim Goa</description>
+    <title>Tags on Eden Anin Adjei – PhD Research</title>
+    <link>https://edenaninadjei.github.io/phd-website/tags/</link>
+    <description>Recent content in Tags on Eden Anin Adjei – PhD Research</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://shenoydotme.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://edenaninadjei.github.io/phd-website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://shenoydotme.github.io/tags/about/</link>
+      <link>https://edenaninadjei.github.io/phd-website/tags/about/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://shenoydotme.github.io/tags/about/</guid>
+      <guid>https://edenaninadjei.github.io/phd-website/tags/about/</guid>
       <description></description>
     </item>
     <item>
       <title>GoaTech</title>
-      <link>https://shenoydotme.github.io/tags/goatech/</link>
+      <link>https://edenaninadjei.github.io/phd-website/tags/goatech/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      <guid>https://shenoydotme.github.io/tags/goatech/</guid>
+      <guid>https://edenaninadjei.github.io/phd-website/tags/goatech/</guid>
       <description></description>
     </item>
     <item>
       <title>Innovation</title>
-      <link>https://shenoydotme.github.io/tags/innovation/</link>
+      <link>https://edenaninadjei.github.io/phd-website/tags/innovation/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      <guid>https://shenoydotme.github.io/tags/innovation/</guid>
+      <guid>https://edenaninadjei.github.io/phd-website/tags/innovation/</guid>
       <description></description>
     </item>
     <item>
       <title>Panjim Goa</title>
-      <link>https://shenoydotme.github.io/tags/panjim-goa/</link>
+      <link>https://edenaninadjei.github.io/phd-website/tags/panjim-goa/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      <guid>https://shenoydotme.github.io/tags/panjim-goa/</guid>
+      <guid>https://edenaninadjei.github.io/phd-website/tags/panjim-goa/</guid>
       <description></description>
     </item>
   </channel>
